@@ -31,7 +31,7 @@ public:
     }
 
     void print() {
-        int zsz;
+        int whatttt;
 
     }
 
