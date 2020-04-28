@@ -31,7 +31,8 @@ public:
     }
 
     void print() {
-        int whatttt;
+        int x32 = 32;
+        int y = 9;
 
     }
 
