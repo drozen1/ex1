@@ -33,6 +33,7 @@ public:
     void print() {
         int x32 = 11;
         int y = 9;
+        int z = 9;
 
     }
 
